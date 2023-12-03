@@ -22,5 +22,5 @@ DAY 6 🎁🎁
 DAY 5 🎁🎁  
 DAY 4 🎁🎁  
 DAY 3 🎁🎁  
-DAY 2 🎁🎁  
+✅DAY 2 ⭐⭐&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;----@&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;'''..*......'''  
 ✅DAY 1 ⭐⭐&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;! /^\  

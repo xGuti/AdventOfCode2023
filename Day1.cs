@@ -32,13 +32,13 @@ namespace AdventOfCode2023
 			var path = Path.Combine(Directory.GetCurrentDirectory(), "..\\..\\..");
 			path += "\\input1.txt";
 			
-			//solve day 1.2
+			//solution day 1.2
 			var regexInString = @"(?=(\d";
 			foreach (var digit in Digits.any)
 				regexInString += "|" + digit;
 			regexInString += "))";
 
-			Regex exp = new Regex(regexInString); //solve day 1.1 "\\d"
+			Regex exp = new Regex(regexInString); //solution day 1.1 "\\d"
 
             try
 			{
